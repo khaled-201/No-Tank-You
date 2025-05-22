@@ -30,5 +30,3 @@ Install the required libraries with:
 - pandas  
 - numpy
 
-  ## Data Link
-  https://catalog.data.gov/dataset/ground-water-water-quality-regulatory-information
